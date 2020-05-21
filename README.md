@@ -8,4 +8,4 @@ git clone https://github.com/AnshGaikwad/Mothers-Day-Card.git
 Or you can just clone it through [android studio](https://developer.android.com/studio) which will be much easier.
 # Features
 > 1. Lovely Greeting Card for your loved once
-> 2. Hidden Animation Feature by swipe-gesture-controls
+> 2. Hidden Animation Feature by swipe gesture detection
